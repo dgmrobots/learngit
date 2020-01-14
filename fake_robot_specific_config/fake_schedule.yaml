@@ -1,0 +1,10 @@
+- mission_id: "0002"
+  tour: "tour223"
+  schedule_type: "cron"
+  schedule_definition: "0 8 * * * America/New_York"
+
+
+- mission_id: "0003"
+  tour: "tour223"
+  schedule_type: "Repeat"
+  schedule_definition: "2019-02-25 09:00:00 America/New_York 3"
